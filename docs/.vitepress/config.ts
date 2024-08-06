@@ -64,20 +64,7 @@ export default defineConfig({
     lightModeSwitchTitle: '切换到浅色模式',
     darkModeSwitchTitle: '切换到深色模式',
 
-    /*** 自定义配置 ***/
-    visitor: {
-      badgeId: 'maomao1996.vitepress-nav-template',
-    },
-
-    comment: {
-      repo: 'maomao1996/vitepress-nav-template',
-      repoId: 'R_kgDOJC09Jg',
-      category: 'Announcements',
-      categoryId: 'DIC_kwDOJC09Js4Cekn0',
-    },
-  },
-
-  vite: {
+    vite: {
     plugins: [MarkdownPreview()],
   },
 })
