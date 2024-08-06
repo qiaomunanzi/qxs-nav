@@ -8,7 +8,7 @@ const APP_BASE_PATH = basename(process.env.GITHUB_REPOSITORY || '')
 
 export default defineConfig({
   outDir: '../dist',
-  base: '/',
+  base: 'https://nav.qxs-docs.top/nav',
 
   lang: 'zh-CN',
   title: '茂茂物语',
