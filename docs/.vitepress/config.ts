@@ -30,7 +30,7 @@ export default defineConfig({
     logo: '/logo.png',
     
   // 指定logo链接
-    homepage: 'https://nav.qxs-docs.top/nav',
+    homepage: 'https://www.qxs-docs.top',
     
     nav,
     sidebar,
