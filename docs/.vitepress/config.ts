@@ -28,8 +28,7 @@ export default defineConfig({
     i18nRouting: false,
 
     logo: '/logo.png',
-    
-  // 指定logo链接
+   
     homepage: 'https://www.qxs-docs.top',
     
     nav,
