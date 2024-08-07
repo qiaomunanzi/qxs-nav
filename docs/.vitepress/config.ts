@@ -28,9 +28,7 @@ export default defineConfig({
     i18nRouting: false,
 
     logo: '/logo.png',
-   
-    homepage: '/nav/index',
-    
+      
     nav,
     sidebar,
 
