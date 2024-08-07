@@ -6,13 +6,6 @@ import { head, nav, sidebar } from './configs'
 
 const APP_BASE_PATH = basename(process.env.GITHUB_REPOSITORY || '')
 
-module.exports = {
-  themeConfig: {
-    // 指定logo链接
-    homepage: 'https://your-target-url.com',
-  },
-};
-
 export default defineConfig({
   outDir: '../dist',
   base: APP_BASE_PATH ? `/${APP_BASE_PATH}/` : '/',
