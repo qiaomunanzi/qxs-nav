@@ -27,7 +27,7 @@ const formatTitle = computed(() => {
       :icon="icon"
       :title="title"
       :desc="desc"
-      :link="'https://www.qxs-docs.top'"
+      :link="link"
     />
   </div>
 </template>
