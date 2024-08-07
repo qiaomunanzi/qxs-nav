@@ -29,7 +29,7 @@ export default defineConfig({
 
     logo: '/logo.png',
    
-    homepage: '/nav',
+    homepage: '/nav/index',
     
     nav,
     sidebar,
