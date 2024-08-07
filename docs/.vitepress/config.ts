@@ -29,7 +29,7 @@ export default defineConfig({
 
     logo: '/logo.png',
    
-    homepage: 'https://www.qxs-docs.top',
+    homepage: '/nav',
     
     nav,
     sidebar,
