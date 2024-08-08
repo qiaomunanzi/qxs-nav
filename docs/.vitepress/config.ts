@@ -29,7 +29,7 @@ export default defineConfig({
 
     
     siteTitle: true, //标题隐藏 
-    sitelink: 'https://www.qxs-docs.top'
+    repo: 'https://www.qxs-docs.top',
     nav,
     sidebar,
 
