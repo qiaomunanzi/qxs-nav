@@ -12,7 +12,7 @@ export default defineConfig({
 
   lang: 'zh-CN',
   title: '乔先森的导航页',
-  description: '自用导航页',
+  description: '基于 VitePress 的个人前端导航页面模板',
   head,
 
   lastUpdated: true,
@@ -27,9 +27,9 @@ export default defineConfig({
   themeConfig: {
     i18nRouting: false,
 
-    logo: '/logo.png',
+    
     siteTitle: false, //标题隐藏 
-    repo: 'https://www.qxs-docs.top',
+    
     nav,
     sidebar,
 
