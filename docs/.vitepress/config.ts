@@ -38,11 +38,11 @@ export default defineConfig({
       label: '目录',
     },
 
-    socialLinks: [{ icon: 'github', link: 'https://github.com/maomao1996/vitepress-nav-template' }],
+    socialLinks: [{ icon: 'github', link: 'https://github.com/qiaomunanzi' }],
 
     footer: {
       message: '如有转载或 CV 的请标注本站原文地址',
-      copyright: 'Copyright © 2019-present maomao',
+      copyright: 'Copyright © 2024 Present 乔先森',
     },
 
     lastUpdated: {
@@ -65,9 +65,7 @@ export default defineConfig({
     darkModeSwitchTitle: '切换到深色模式',
 
     /*** 自定义配置 ***/
-    visitor: {
-      badgeId: 'maomao1996.vitepress-nav-template',
-    },
+    
 
     comment: {
       repo: 'maomao1996/vitepress-nav-template',
