@@ -27,7 +27,7 @@ export default defineConfig({
   themeConfig: {
     i18nRouting: false,
 
-    logo,
+    
     siteTitle: false, //标题隐藏 
     nav,
     sidebar,
