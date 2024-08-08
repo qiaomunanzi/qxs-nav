@@ -27,8 +27,8 @@ export default defineConfig({
   themeConfig: {
     i18nRouting: false,
 
-    
-    siteTitle: true, //标题隐藏 
+    logo: '/logo.png',
+    siteTitle: false, //标题隐藏 
     repo: 'https://www.qxs-docs.top',
     nav,
     sidebar,
